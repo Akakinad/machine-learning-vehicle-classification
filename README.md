@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Vehicle Classification Project**
 
 __Project Overview__
@@ -74,3 +75,7 @@ vehicle.csv: The dataset containing vehicle silhouette features.
 requirements.txt: A list of Python packages required to run the project.
 venv/: Virtual environment folder.
 
+=======
+# machine-learning-vehicle-classification
+This project classifies vehicles (bus, car, van) using machine learning. It applies both supervised (Random Forest) and unsupervised (KMeans clustering) approaches. Key steps include data preprocessing, feature scaling, dimensionality reduction (PCA), and evaluating performance with metrics like accuracy and ARI.
+>>>>>>> ebc6094de9235c30f116f33106b9ea038ef12921
